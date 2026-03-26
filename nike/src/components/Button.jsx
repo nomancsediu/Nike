@@ -1,13 +1,8 @@
-const Button = ({label,iconUrl}) => {
+const Button = () => {
     return (
-        <button className="flex justify-center
-        items-center gap-2 px-7 p-4 font-montserrat text-lg leading-none bg-coral-red
-        border-coral-red rounded-full text-white">
-            {label}
-            <img src={iconUrl} alt=""
-                className="ml-2 rounded-full
-            w-5 h-5"/>
-        </button>
+        <div>
+            
+        </div>
     );
 };
 

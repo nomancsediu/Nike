@@ -1,9 +1,13 @@
-<h1 style=' text-align: center;
-    width: 100%;'>Nike — Shoe Store Website</h1>
+<h1 align="center">Nike — Shoe Store Website</h1>
 
-![Preview](nike/src/assets/image.png)
+<p align="center">
+  <img src="nike/src/assets/image.png" alt="Preview" />
+</p>
 
-A modern Nike shoe store landing page built with **React**, **Tailwind CSS v4**, and **Vite**.
+<p align="center">
+  A modern Nike shoe store landing page built with <b>React</b>, 
+  <b>Tailwind CSS v4</b>, and <b>Vite</b>.
+</p>
 
 ## Live Demo
 

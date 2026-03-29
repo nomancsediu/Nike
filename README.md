@@ -1,4 +1,5 @@
-<h1 class='text-align-center'>Nike — Shoe Store Website</h1>
+<h1 class=' text-align: center;
+    width: 100%;'>Nike — Shoe Store Website</h1>
 
 ![Preview](nike/src/assets/image.png)
 

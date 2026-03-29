@@ -1,4 +1,4 @@
-# Nike — Shoe Store Website
+<h1 class='text-align-center'>Nike — Shoe Store Website</h1>
 
 ![Preview](nike/src/assets/image.png)
 
